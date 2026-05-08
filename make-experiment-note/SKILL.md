@@ -1,6 +1,11 @@
+---
+name: make-experiment-note
+description: Write an experiment note in the user's Obsidian vault at the end of a long data-analysis session. Use when the user says "make an experiment note", "write up the experiment", "log this experiment", or asks to summarize/record what was investigated and found. Summarizes what was investigated, what was done, what was found, and follow-ups, written as Obsidian Flavored Markdown using the syntax reference below.
+---
+
 # Make Experiment Note
 
-This skill is for writing an experiment note in the user's Obsidian vault at the end of a long Claude Code session spent analyzing data. Summarize what was investigated, what was done, what was found, and any follow-ups — written as a valid Obsidian Flavored Markdown note using the syntax reference below.
+This skill is for writing an experiment note in the user's Obsidian vault at the end of a long session spent analyzing data. Summarize what was investigated, what was done, what was found, and any follow-ups — written as a valid Obsidian Flavored Markdown note using the syntax reference below.
 
 ## Vault Location
 
